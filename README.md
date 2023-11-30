@@ -26,7 +26,7 @@ python main.py
 ## ✍️ Author <a name = "authors"></a>
 
 - [@Lazarus Muya](https://github.com/tjpin)
-- [Buy me a coffee 🧉🥂](https://github.com/tjpin)
+- [Buy me a coffee 🧉🥂](https://patreon.com/chairmanstudios)
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
